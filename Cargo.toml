@@ -1,0 +1,11 @@
+[package]
+name = "aoc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fancy-regex = "0.14.0"
+itertools = "0.13.0"
+konst = "0.3.14"
+nalgebra = "0.33.2"
+tap = "1.0.1"
